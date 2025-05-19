@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'helloworld';
+  
+  title1 = 'welcome';
+  num1 = 123;
+  photo = "assets/angular.png" ;
 }
